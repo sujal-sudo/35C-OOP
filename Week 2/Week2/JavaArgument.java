@@ -1,3 +1,4 @@
+package Week2;
 public class JavaArgument {
     public static void main(String[] args){
         /*the args in the main function can be useds
